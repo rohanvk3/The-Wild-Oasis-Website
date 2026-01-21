@@ -22,22 +22,26 @@ export default async function Page() {
 
         <div className="space-y-8">
           <p>
-            Where nature&apos;s beauty and comfortable living blend seamlessly.
-            Hidden away in the heart of the Italian Dolomites, this is your
-            paradise away from home. But it&apos;s not just about the luxury
-            cabins. It&apos;s about the experience of reconnecting with nature
-            and enjoying simple pleasures with family.
+            Where nature’s beauty and comfortable living come together in
+            perfect harmony. Nestled amidst some of India’s most scenic
+            landscapes, The Wild Oasis is your peaceful retreat away from the
+            chaos of everyday life. Here, luxury meets simplicity, allowing you
+            to truly reconnect with nature and yourself.
           </p>
+
           <p>
-            Our {cabins.length} luxury cabins provide a cozy base, but the real
-            freedom and peace you&apos;ll find in the surrounding mountains.
-            Wander through lush forests, breathe in the fresh air, and watch the
-            stars twinkle above from the warmth of a campfire or your hot tub.
+            Our {cabins.length} luxury cabins offer a cozy and private base for
+            your stay, while the surrounding hills, forests, and open skies
+            invite you to slow down and breathe easy. Wake up to fresh mountain
+            air, enjoy quiet mornings with birdsong, and unwind under starlit
+            skies in serene surroundings.
           </p>
+
           <p>
-            This is where memorable moments are made, surrounded by
-            nature&apos;s splendor. It&apos;s a place to slow down, relax, and
-            feel the joy of being together in a beautiful setting.
+            This is a place where meaningful memories are created — whether
+            you’re spending time with family, enjoying a quiet escape, or
+            celebrating special moments close to nature. The Wild Oasis offers
+            comfort, calm, and a sense of belonging.
           </p>
         </div>
       </div>
@@ -45,7 +49,7 @@ export default async function Page() {
       <div className="col-span-2">
         <Image
           src={image1}
-          alt="Family sitting around a fire pit in front of cabin"
+          alt="Family relaxing near a cabin in nature"
           placeholder="blur"
           quality={80}
         />
@@ -62,23 +66,23 @@ export default async function Page() {
 
       <div className="col-span-3">
         <h1 className="text-4xl mb-10 text-accent-400 font-medium">
-          Managed by our family since 1962
+          Family-run hospitality since 1962
         </h1>
 
         <div className="space-y-8">
           <p>
-            Since 1962, The Wild Oasis has been a cherished family-run retreat.
-            Started by our grandparents, this haven has been nurtured with love
-            and care, passing down through our family as a testament to our
-            dedication to creating a warm, welcoming environment.
+            Since 1962, The Wild Oasis has been lovingly managed by our family,
+            rooted in the values of warmth, care, and genuine hospitality. What
+            began as a small retreat has grown into a trusted destination for
+            guests seeking peace, comfort, and an authentic nature experience.
           </p>
+
           <p>
-            Over the years, we&apos;ve maintained the essence of The Wild Oasis,
-            blending the timeless beauty of the mountains with the personal
-            touch only a family business can offer. Here, you&apos;re not just a
-            guest; you&apos;re part of our extended family. So join us at The
-            Wild Oasis soon, where tradition meets tranquility, and every visit
-            is like coming home.
+            Through generations, we’ve preserved the soul of The Wild Oasis —
+            blending traditional hospitality with modern comforts. When you stay
+            with us, you’re not just a guest; you become part of our extended
+            family. We invite you to experience a stay where tradition,
+            tranquility, and heartfelt service come together.
           </p>
 
           <div>
