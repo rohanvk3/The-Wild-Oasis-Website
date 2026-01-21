@@ -1,6 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# The Wild Oasis
+
+*The Wild Oasis* is the official website for a boutique hotel featuring 8 luxurious wooden cabins nestled in a serene natural setting designed to provide users with a seamless experience as they explore and book their stay.
+
+## Features
+
+- **User Accounts**: Visitors can create and manage their accounts, offering a personalized experience.
+- **Cabin Booking**: Book one of our exquisite wooden cabins through a user-friendly interface.
+- **Profile Management**: Users can update their profiles, view booking history, and manage their preferences.
+- **Luxurious Design**: The website reflects the upscale and tranquil atmosphere of The Wild Oasis, with elegant design and ease of use.
+
+## Technologies Used
+
+- [Next.js, Tailwind CSS, Supabase, Auth.js, React]
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
